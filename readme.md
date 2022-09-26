@@ -10,7 +10,7 @@
 
 - _Learned About cards and in depth flexbox properties._
 - _Used shadow boxes alot in this project_
-- _learned about in-depth mobile responsiveness_
+- _Learned about in-depth mobile responsiveness_
 
 ---
 
